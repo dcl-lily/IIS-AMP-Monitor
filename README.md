@@ -2,6 +2,7 @@
 通IIS API监控IIS站点性能，单个站点或者应用池的CPU\MEM\CACHE\DISK\REQUESTS\NETWORK
 
 ##版本说明
+
     v1.1(2017年11月09日)
         初期版本,基于Python2.6开发
         需要python额外支持组件，BeautifulSoup 、ntlm 
