@@ -21,7 +21,8 @@
    
     可以通过以下连接进行下载使用,不需要python环境，
     不需要python依赖包,下载后可直接使用
-    https://github.com/dcl-lily/IIS-AMP-Monitor/release
+    
+   https://github.com/dcl-lily/IIS-AMP-Monitor/releases
     
    **在Linux上**
     
@@ -32,13 +33,14 @@
     #./check_iis.py
     
    > 注意：
-        需要python3.0以上版本，和 requests模块
+        需要python3.0以上版本,requests、requests_ntlm模块
         
    **客户端设置，IIS服务器设置**
    
-    软件安装参考 https://www.qnjslm.com/ITHelp/629.html
+    软件安装参考第一个连接
     不推荐使用直接使用管理员账号进行连接，推荐使用普通账号，设置参考如下
-    https://www.qnjslm.com/ITHelp/645.html
+  - https://www.qnjslm.com/ITHelp/629.html
+  - https://www.qnjslm.com/ITHelp/645.html
         
 ##使用方法
 
